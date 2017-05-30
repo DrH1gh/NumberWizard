@@ -1,0 +1,90 @@
+Initialize engine version: 5.4.2f1 (94e3a60ee258)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6819)
+    Vendor:   ATI
+    VRAM:     2029 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.178 seconds
+Platform assembly: E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Android Development\UNITY TUTORIALS\NumberWizard\numberwizard_v1.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.493323 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4ff8 -> priority: 1 
+Level loaded Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.938152 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.141250 ms (FindLiveObjects: 0.020781 ms CreateObjectMapping: 0.007529 ms MarkObjects: 0.108121 ms  DeleteObjects: 0.002108 ms)
+
+UP!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Down!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+UP!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+UP!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Down!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Down!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+UP!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Down!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Down!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.273466 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.144563 ms (FindLiveObjects: 0.012950 ms CreateObjectMapping: 0.016564 ms MarkObjects: 0.109928 ms  DeleteObjects: 0.004517 ms)
+
+Level loaded Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.231904 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 183.
+Total: 0.129806 ms (FindLiveObjects: 0.016564 ms CreateObjectMapping: 0.005722 ms MarkObjects: 0.105109 ms  DeleteObjects: 0.001807 ms)
+
